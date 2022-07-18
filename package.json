@@ -1,0 +1,24 @@
+{
+  "name": "theirsverse-shuffle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/shuffle.js",
+  "scripts": {
+    "start": "node ./src/shuffle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhiteMatrixTech/theirsverse-shuffle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pandemonium": "2.3.0",
+    "seedrandom": "3.0.5"
+  },
+  "bugs": {
+    "url": "https://github.com/WhiteMatrixTech/theirsverse-shuffle/issues"
+  },
+  "homepage": "https://github.com/WhiteMatrixTech/theirsverse-shuffle#readme"
+}
