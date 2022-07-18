@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WhiteMatrixTech/theirsverse-shuffle.git"
+    "url": "git+https://github.com/MatrixLabsTech/theirsverse-shuffle.git"
   },
   "author": "",
   "license": "ISC",
@@ -18,7 +18,7 @@
     "seedrandom": "3.0.5"
   },
   "bugs": {
-    "url": "https://github.com/WhiteMatrixTech/theirsverse-shuffle/issues"
+    "url": "https://github.com/MatrixLabsTech/theirsverse-shuffle/issues"
   },
-  "homepage": "https://github.com/WhiteMatrixTech/theirsverse-shuffle#readme"
+  "homepage": "https://github.com/MatrixLabsTech/theirsverse-shuffle#readme"
 }
